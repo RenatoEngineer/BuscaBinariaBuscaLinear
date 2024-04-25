@@ -1,4 +1,13 @@
 /*
+ * busca_binaria.c
+ *
+ *  Criado em: 22 de abr de 2024
+ *      Autor: Renato Gomes de Sousa
+ *
+ *      https://github.com/RenatoEngineer/BuscaBinariaBuscaLinear
+ *
+ * .:: Busca Binaria ::.
+ *
  * A busca Binaria eh um tipo de busca realizada em vetores ordenados, a qual se baseia no
  * metodo de divisoes sucessivas do vetor, ate que o valor desejado seja encontrado.
  */
