@@ -6,3 +6,9 @@
 
 [Exemplo](./Exemplos/busca_binaria.c)
 
+#### .:: Busca Linear ::.
+<p></p>
+<p><strong>Também chamada de Busca Sequencial é utilizada para fazer busca de elementos em vetores ordenados elemento a elemento, de modo que a função do tempo em relação ao número de elementos é linear, ou seja, cresce proporcionalmente.</strong></p>
+
+[Exemplo](./Exemplos/busca_linear.c)
+
