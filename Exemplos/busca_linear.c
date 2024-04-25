@@ -1,4 +1,13 @@
 /*
+ * busca_linear.c
+ *
+ *  Criado em: 23 de abr de 2024
+ *      Autor: Renato Gomes de Sousa
+ *
+ *      https://github.com/RenatoEngineer/BuscaBinariaBuscaLinear
+ *
+ * .:: Busca Linear ::.
+ *
  * Tambem chamada de Busca Sequencial eh utilizada para fazer busca de elementos em vetores
  * ordenados elemento a elemento, de modo que a funcao do tempo em relacao ao numero de
  * elementos eh linear, ou seja, cresce proporcionalmente.
